@@ -1,0 +1,182 @@
+.image img{
+	border-radius: 50%;
+}
+
+.image {
+	padding-top: 25%;
+}
+
+.navBar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+.navBar li{
+	font-family:'Ubuntu',sans-serif;
+	float: left;
+	display: block;
+  	color: grey;
+  	text-align: center;
+  	padding: 17px 35px;
+}
+
+.navBar li a{
+   	text-decoration: none;
+   	color:inherit;
+}
+.navBar li:hover{
+	color: black;
+}
+
+.profile{
+	
+	background: url('../images/Background1.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+	background-position: center;
+
+	height: 1000px;
+    padding-top: 10px;
+}
+
+.hello {
+	font-family: Candara, Arial, Helvetica;
+	color:#D3D3D3;
+	font-size:25px;
+	font-weight:1000;
+	padding-top:10px;
+	text-align: center;
+}
+
+.intro{
+	background-color: black;
+	background-size: cover;
+
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+
+    word-spacing: 0.5em;
+    min-height: auto;
+
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    line-height: 30px;
+    letter-spacing: .125rem;
+
+    border-top: 1px solid rgba(237,248,252,0.1);
+}
+
+.about{
+	padding-top: 25%;
+	font-family: 'Ubuntu', sans-serif;
+	color:white;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    margin-bottom: 250px;
+}
+
+.contacts a{
+	font-size: 18px;
+    vertical-align: top;
+    color: #EDF8FC;
+    font-family: "Ubuntu",sans-serif;
+    font-weight: 300;
+    padding-right: 5%;
+    margin-top: 110px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.contacts a:hover{
+	color:#696969;
+}
+
+.projects{
+	
+	background: url('../images/Projectbg2.png') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+  	font-family: 'Muli', sans-serif;
+	color:white;
+    margin-bottom: 0px;
+    min-height: auto;
+
+}
+
+.Heading h1{
+	margin:0;
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	font-weight: 500;
+    font-size: 40px;
+    letter-spacing: 1px;
+    padding:10px 20px;
+}
+
+.Heading h2{
+	font-family: 'Berkshire Swash', cursive;
+	text-align:left;
+	padding:10px 50px;
+}
+
+.Heading h3{
+	font-family: 'Pacifico', cursive;
+	text-align: left;
+	padding:10px 50px;
+}
+
+.content1{
+    font-weight: 300;
+    font-size: 25px;
+    letter-spacing: 1px;
+    line-height: 1.2em;
+    padding-left: 5%;
+}
+
+.content1 a:hover{
+	color:black;
+}
+
+.content1 a{
+	color:inherit;
+	text-decoration: none;
+}
+
+.Details{
+	background: url('../images/Aboutbg.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-position: center;
+	background-size: cover;
+
+  	font-family: 'Muli', sans-serif;
+  	font-size: 25px;
+	color:white;
+   	margin-bottom: 0px;
+   	min-height: auto;
+}
+
+.Details h2{
+	font-size: 75%;
+	text-align:center;
+}
+
+.Details h3{
+	font-size: 50%;
+}
